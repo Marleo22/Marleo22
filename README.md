@@ -2,8 +2,8 @@
   <img src="./biteo-avatar.webp" width="140" alt="Biteo, digital companion" />
 </p>
 
-<h1 align="center">Diego Giron <sub>· Marleo</sub></h1>
-<h1 align="center">Marleo</sub></h1>
+<h1 align="center">Diego Giron</h1>
+<h1 align="center">Marleo</h1>
 <p align="center"><strong>Full Stack Developer · UI/UX · Automation · QA</strong></p>
 <p align="center"><em>Code · Explore · Create · Together</em></p>
 
