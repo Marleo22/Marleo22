@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="160" viewBox="0 0 840 160" role="img" aria-labelledby="title desc">
+  <title id="title">Recruitment Flow</title>
+  <desc id="desc">WhatsApp to n8n to ATS workflow concept. Mockup.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#b18cff" stop-opacity=".9"/><stop offset="1" stop-color="#b18cff" stop-opacity="0"/></linearGradient></defs>
+  <rect x="1" y="1" width="838" height="158" rx="22" fill="#111114" stroke="#2a2d39" stroke-width="2"/>
+  <rect x="1" y="1" width="260" height="3" rx="2" fill="url(#g)"/>
+  <circle cx="42" cy="44" r="19" fill="#b18cff" fill-opacity=".14" stroke="#b18cff" stroke-opacity=".74"/>
+  <path d="M30 34h24v17H30zM34 55l4-4h16M36 40h12M36 45h8" fill="none" stroke="#ddceff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="78" y="45" fill="#f5f7fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">Recruitment Flow</text>
+  <text x="78" y="76" fill="#b5bdcb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">WhatsApp - n8n - ATS workflow concept.</text>
+  <rect x="78" y="106" width="84" height="32" rx="16" fill="#b18cff" fill-opacity=".13" stroke="#b18cff" stroke-opacity=".5"/>
+  <text x="99" y="127" fill="#ddceff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Mockup</text>
+  <path d="M786 80h20m-8-8 8 8-8 8" fill="none" stroke="#ddceff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

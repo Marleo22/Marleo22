@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="160" viewBox="0 0 840 160" role="img" aria-labelledby="title desc">
+  <title id="title">Fini</title>
+  <desc id="desc">Personal-finance experience focused on planning and useful data views. Demo.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7dd3b0" stop-opacity=".9"/><stop offset="1" stop-color="#7dd3b0" stop-opacity="0"/></linearGradient></defs>
+  <rect x="1" y="1" width="838" height="158" rx="22" fill="#111114" stroke="#2a2d39" stroke-width="2"/>
+  <rect x="1" y="1" width="260" height="3" rx="2" fill="url(#g)"/>
+  <circle cx="42" cy="44" r="19" fill="#7dd3b0" fill-opacity=".14" stroke="#7dd3b0" stroke-opacity=".74"/>
+  <path d="M32 51V39M38 51V33M44 51V42M50 51V29" fill="none" stroke="#b7f5dd" stroke-width="3" stroke-linecap="round"/>
+  <text x="78" y="45" fill="#f5f7fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">Fini</text>
+  <text x="78" y="76" fill="#b5bdcb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Personal-finance experience focused on planning and useful data views.</text>
+  <rect x="78" y="106" width="74" height="32" rx="16" fill="#7dd3b0" fill-opacity=".13" stroke="#7dd3b0" stroke-opacity=".5"/>
+  <text x="98" y="127" fill="#b7f5dd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Demo</text>
+  <path d="M786 80h20m-8-8 8 8-8 8" fill="none" stroke="#b7f5dd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
