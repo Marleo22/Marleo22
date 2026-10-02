@@ -23,23 +23,23 @@ I turn concrete ideas into useful web products: clear interfaces, reliable backe
 ## Selected work
 
 <p align="center">
-  <img src="./rounded-assets/project-focus.svg" width="840" alt="Focus Monitor — operational monitoring and computer-vision workflows. Private project; source not published." />
+  <img src="./project-cards/focus.webp" width="1000" alt="Focus Monitor logo and desktop monitoring mockup. Private project; source not published." />
 </p>
 
 <p align="center">
-  <a href="https://handy-demo.d-2.workers.dev/"><img src="./rounded-assets/project-handy.svg" width="840" alt="Handy — home-services SaaS concept with requests and real-time conversations. Demo in development." /></a>
+  <a href="https://handy-demo.d-2.workers.dev/"><img src="./project-cards/handy.webp" width="1000" alt="Handy logo and desktop SaaS mockup. Demo in development." /></a>
 </p>
 
 <p align="center">
-  <img src="./rounded-assets/project-fini.svg" width="840" alt="Fini — personal-finance experience focused on planning and useful data views. Demo." />
+  <img src="./project-cards/fini.webp" width="1000" alt="Fini logo and personal finance desktop mockup. Demo." />
 </p>
 
 <p align="center">
-  <img src="./rounded-assets/project-recruitment-flow.svg" width="840" alt="Recruitment Flow — WhatsApp to n8n to ATS workflow concept. Mockup." />
+  <img src="./project-cards/recruitment-flow.webp" width="1000" alt="Recruitment Flow logo and WhatsApp to n8n to ATS workflow mockup." />
 </p>
 
 <p align="center">
-  <a href="https://lashes-by-fer.d-2.workers.dev/#inicio"><img src="./rounded-assets/project-lashes.svg" width="840" alt="Lashes by Fer — responsive service, portfolio and booking experience. Client demo site." /></a>
+  <a href="https://lashes-by-fer.d-2.workers.dev/#inicio"><img src="./project-cards/lashes.webp" width="1000" alt="Lashes by Fer logo and responsive beauty studio mockup. Client demo site." /></a>
 </p>
 
 Some work projects are private. I share the product thinking and public demos without exposing company code, credentials or internal data.
@@ -67,7 +67,7 @@ My background in technical support taught me to translate a person's idea into a
 
 Have an idea, a workflow that needs connecting or a product that needs a clearer interface?
 
-<a href="mailto:diegoleonelgl@gmail.com?subject=Project%20idea"><img src="./rounded-assets/button-email.svg" width="300" alt="Start a conversation by email" /></a>
+<a href="mailto:diegoleonelgl@gmail.com?subject=Project%20idea">Start a conversation →</a>
 
 <details><summary>En español</summary>
 
