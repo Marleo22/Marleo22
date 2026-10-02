@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/biteo-avatar.webp" width="140" alt="Biteo, digital companion" />
+  <img src="./biteo-avatar.webp" width="140" alt="Biteo, digital companion" />
 </p>
 
 <h1 align="center">Diego Giron <sub>· Marleo</sub></h1>
