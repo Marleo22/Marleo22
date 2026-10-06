@@ -2,7 +2,7 @@
   <img src="./biteo-avatar.webp" width="140" alt="Biteo, digital companion" />
 </p>
 
-<h1 align="center">Diego G></h1>
+<h1 align="center">Diego G</h1>
 <p align="center"><strong>Marleo</strong></p>
 <p align="center"><strong>Full Stack Developer · UI/UX · Automation · QA</strong></p>
 <p align="center"><em>Code · Explore · Create · Together</em></p>
